@@ -5,9 +5,19 @@
 body {
     background-color: #000000;
 }
+.tarjeta {
+  width: 320px;
+  background-color: #989898;
+  color: white;
+  text-align: center;
+  padding: 200px;
+  border-radius: 150px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
 img {
     width:400px;
-    height: 400px; ;
+    height: 400px; 
+     box-sizing: border-box;
 }
 .contenedor {
     text-align: center;
